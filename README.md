@@ -1,4 +1,4 @@
-# ddd-awesome-全网最全的DDD「领域驱动设计」资料
+# 全网最全的DDD「领域驱动设计」资料
 
 ## 权威网站
 - [dddcommunity](https://www.dddcommunity.org/)
