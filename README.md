@@ -14,6 +14,7 @@
 ## 其他网络学习资料
 - [《实现领域驱动设计》配套示例代码](https://github.com/VaughnVernon/IDDD_Samples)
 - [Greg Young — A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
+- [软件架构设计模式](https://github.com/twang281314/frontEnd/blob/master/weekly/resources/software_architecture.md)
 
 ## 博客和最佳实践
 - [阿里盒马领域驱动设计实践](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489183&idx=1&sn=8ad79428ece0862c86ddfda0efafbca7&source=41#wechat_redirect)
@@ -21,3 +22,5 @@
 - [张逸说-张逸的个人博客](http://zhangyi.xyz/)
 - [CQRS-Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 - [What do you mean by “Event-Driven”?-Martin Fowler](https://martinfowler.com/articles/201701-event-driven.html)
+- [CQRS Journey](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)?redirectedfrom=MSDN)
+- [ThoughtWorks知乎专栏-DDD-领域驱动设计](https://zhuanlan.zhihu.com/c_137428247)
