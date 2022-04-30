@@ -9,7 +9,7 @@
 ## 电子书
 - [《领域驱动设计 软件核心复杂性应对之道》](https://item.jd.com/12870065.html)
 - [《实现领域驱动设计》](https://item.jd.com/13131498.html)
-- [领域驱动设计精粹](https://item.jd.com/12447082.html)
+- [《领域驱动设计精粹》](https://item.jd.com/12447082.html)
 
 ## 其他网络学习资料
 - [《实现领域驱动设计》配套示例代码](https://github.com/VaughnVernon/IDDD_Samples)
