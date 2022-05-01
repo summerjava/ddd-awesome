@@ -7,7 +7,9 @@
 - [领域驱动设计中国峰会](http://www.ddd-china.com/)
 
 ## 电子书  
-电子书下载链接:链接：https://share.weiyun.com/wN9hUBJe 密码：关注公众号「<b>编程学习指南</b>」回复ddd获取密码。
+电子书下载链接:链接：https://share.weiyun.com/wN9hUBJe   
+密码：关注公众号「<b>编程学习指南</b>」回复ddd获取密码。  
+![电子书合集](https://github.com/xiajunhust/ddd-awesome/blob/main/ddd.png)
 
 - [《领域驱动设计 软件核心复杂性应对之道》](https://item.jd.com/12870065.html)
 - [《实现领域驱动设计》](https://item.jd.com/13131498.html)
